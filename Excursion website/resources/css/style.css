@@ -5,7 +5,12 @@ body{
 }
 
 .header--main{
-    font-size: 50;
-    color: aliceblue;
-    
+    font-weight: normal;
+    font-size: 50px;
+    color: aliceblue;   
+}
+
+.link--cta{
+    color: aquamarine;
+    font-size: 16px; 
 }
